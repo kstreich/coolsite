@@ -10,15 +10,35 @@ body {
   padding-top: 5%;
 }
 
+.container-fluid {
+  padding-right: 0;
+  padding-left: 0;
+}
+
 .textBox1 {
   margin-top: 18%;
 }
 
 .middleSection {
   padding-top: 20%;
+  padding-bottom: 11%;
 }
 
 .videoSection {
-  height: 314px;
+  height: 20%;
   background-color: powderblue;
+}
+
+.flowerPic2 {
+  height: 314px;
+}
+
+.footerBox {
+  height: 20%;
+  background-color: rgb(5, 14, 3);
+  color: rgb(248, 246, 249);
+}
+
+.threeColSec {
+  padding-bottom: 20%;
 }
